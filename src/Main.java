@@ -64,7 +64,7 @@ public class Main {
                 System.out.println("Осень");
                 break;
             default:
-                System.out.println("Такого дня не существует");
+                System.out.println("Хорошо иметь в декабре осень, но лучше вечная весна!");
 
         }
         // задача 3
